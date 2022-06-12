@@ -1,7 +1,8 @@
 ### 😄Rahul Alokkan
-- 🌱 I’m currently learning Front-End devolpement along with Marketing and Management
-- 🌱 I’m currently learning PYTHON and JAVA
-- 🔭 I’m currently working on a small web-based application related to Football
+- 🌱 I’m currently learning Front-End devolpement along with Marketing and Management.
+- 🌱 I’m currently learning PYTHON and JAVA.
+- 🔭 I’m currently working on a small web-based application related to Football.
+- ⚡ I'm always either working on codes and stuff or playing games and watching sports.
 
 <!--
 **Rahul-Alokkan/Rahul-Alokkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
