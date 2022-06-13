@@ -1,10 +1,16 @@
-### 😄Rahul Alokkan
+## 😄 Rahul Alokkan
 - 🌱 I’m currently learning Front-End devolpement along with Marketing and Management.
 - 🌱 I’m currently learning PYTHON and JAVA.
 - 🔭 I’m currently working on a small web-based application related to Football.
 - ⚡ I'm always either working on codes and stuff or playing games and watching sports.
 
+### Stack I Use
+| <img src="Asset\java.jpg" width=60 height=60> | <img src="Asset\C language.png" width=60 height=60> | <img src="Asset\R_language.jpg" width=60 height=60> | <img src="Asset\HTML.png" width=60 height=60> | <img src="Asset\CSS.png" width=60 height=60> | 
+
+
+
 <!--
+
 **Rahul-Alokkan/Rahul-Alokkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
