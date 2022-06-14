@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a small web-based application related to Football.
 - ⚡ I'm always either working on codes and stuff or playing games and watching sports.
 
-### Tools I Use
+### Stack I Use
 |<img src="Asset\java.jpg" width=60 height=60>|<img src="Asset\C language.png" width=60 height=60>|<img src="Asset\R_language.jpg" width=60 height=60>|<img src="Asset\HTML.png" width=60 height=60>|<img src="Asset\CSS.png" width=60 height=60>|<img src="Asset\JS.jpg" width=60 height=60>|<img src="Asset\PHP.png" width=60 height=60>|
 |---|----|---|----|----|----|----|
 
