@@ -2,16 +2,17 @@
 
 ---
 
-   <p align="center"> <img src="./image.png"> </p>
+   <p align="center"> <img src="./assets/image.png"> </p>
 
-- 🧑🏻‍💻 I’m a fronend Software Developer.
+- 🧑🏻‍💻 I’m a frontend Software Developer.
 - 💻 I know Java and Web Developement.
-- 🔭 I’m currently working on a small web-based application related to Football.
-- ⚡ I'm always either working on codes and stuff or playing games and watching sports.
+- 🌐 I’m currently working on a small web-based applications.
+- ⚡ I'm always either working on codes or playing games and watching sports.
 
-### Stack I Use
-|<img src="Asset\java.jpg" width=60 height=60>|<img src="Asset\C language.png" width=60 height=60>|<img src="Asset\R_language.jpg" width=60 height=60>|<img src="Asset\HTML.png" width=60 height=60>|<img src="Asset\CSS.png" width=60 height=60>|<img src="Asset\JS.jpg" width=60 height=60>|<img src="Asset\PHP.png" width=60 height=60>|
-|---|----|---|----|----|----|----|
+### My Tech Stack
+<img src="./assets/image-1.png" width=60 height=60> <img src="./assets/html.png" width=60 height=60> <img src="./assets/css.png" width=60 height=60> <img src="./assets/js.png" width=60 height=60> <img src="./assets/ts.png" width=60 height=60> 
+
+
 
 <!--
 
