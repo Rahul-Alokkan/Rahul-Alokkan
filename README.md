@@ -1,6 +1,11 @@
-## 😄 Rahul Alokkan
-- 🌱 I’m currently learning Front-End devolpement along with Marketing and Management.
-- 🌱 I’m currently learning PYTHON and JAVA.
+<h1 align="center"> 😄Hi I'm Rahul Alokkan </h1>
+
+---
+
+   <p align="center"> <img src="./image.png"> </p>
+
+- 🧑🏻‍💻 I’m a fronend Software Developer.
+- 💻 I know Java and Web Developement.
 - 🔭 I’m currently working on a small web-based application related to Football.
 - ⚡ I'm always either working on codes and stuff or playing games and watching sports.
 
