@@ -8,7 +8,7 @@
 - 🧑🏻‍💻 I’m a frontend Software Developer.
 - 💻 I know Java and Web Developement.
 - 🌐 I’m currently working on a small web-based applications.
-- ⚡ I'm always either working on codes or playing games and watching sports.
+- ⚡ I either work on codes or play games and watch sports.
 
 
 ## 🌐 Socials:
