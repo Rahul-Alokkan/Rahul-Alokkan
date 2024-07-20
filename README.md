@@ -38,7 +38,6 @@
 <img src="./assets/image-1.png" width=60 height=60> <img src="./assets/html.png" width=60 height=60> <img src="./assets/css.png" width=60 height=60> <img src="./assets/js.png" width=60 height=60> <img src="./assets/ts.png" width=60 height=60>  -->
 
 
-
 <!--
 
 **Rahul-Alokkan/Rahul-Alokkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
